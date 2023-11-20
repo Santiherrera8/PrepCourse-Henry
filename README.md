@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es mi primer repositorio de practica, dentro de mi estudio en Henry!
+Este es un proyecto de prueba de como crear un repo y clonarlo a mi computadora
